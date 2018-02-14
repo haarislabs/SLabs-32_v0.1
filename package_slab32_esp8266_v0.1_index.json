@@ -11,7 +11,7 @@
           "category": "Contributed", 
           "name": "Slabs 32 Esp8266", 
           "url": "https://github.com/haarislabs/SLabs-32_v0.1/raw/master/packages/Slabs_Esp-0.1.zip", 
-          "checksum": "SHA-256:48D61206C6661CF6EF1CBF23D476E9C63FCE4843D7B6D26D6865D647C3A37909", 
+          "checksum": "SHA-256:32CF4D9685EBCF6C86D8C67F4DD859933E400321749FD02B6FE5C36523D3A0F1", 
           "help": {
             "online": "http://esp8266.github.com/Arduino/versions/2.3.0/"
           }, 
@@ -361,7 +361,7 @@
         }
       ], 
       "email": "haaris.moosa@startoonlabs.com", 
-      "name": "esp8266"
+      "name": "SLabs-32_Esp"
     }
   ]
 }

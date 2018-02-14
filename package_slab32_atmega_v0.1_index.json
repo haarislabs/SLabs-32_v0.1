@@ -17,10 +17,10 @@
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
-          "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Atmega-1.0.0.zip",
-          "archiveFileName": "Slabs_Atmega-1.0.0.zip",
-          "checksum": "SHA-256:759BBB679C7D010C33EB5FD57E03AADCD381D61C23E5DA225C82097B3293656E",
-          "size": "5516357",
+          "url": "https://github.com/haarislabs/SLabs-32_v0.1/raw/master/packages/Slabs_Atmega-0.1.zip",
+          "archiveFileName": "Slabs_Atmega-0.1.zip",
+          "checksum": "SHA-256:AF247E62CCBE387386E5AA7A4697DA192FF5C211D15807D9FB9022338850DB78",
+          "size": "5570981",
           "boards": [
             {"name": "Slabs 32 Atmega"}
           
